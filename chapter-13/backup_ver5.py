@@ -34,8 +34,7 @@ def zipdir(path, zip_object):
 # Example on Windows:
 # source = ['"C:\\My Documents"', 'C:\\Code']
 # Example on Mac OS X and Linux:
-#source = ['/Users/swa/notes']
-source = ['chapter-11', 'chapter-12']
+source = ['/Users/swa/notes']
 # Notice we had to use double quotes inside the string
 # for names with spaces in it.
 
@@ -43,8 +42,7 @@ source = ['chapter-11', 'chapter-12']
 # Example on Windows:
 # target_dir = 'E:\\Backup'
 # Example on Mac OS X and Linux:
-#target_dir = '/Users/swa/backup'
-target_dir = 'backup'
+target_dir = '/Users/swa/backup'
 # Remember to change this to which folder you will be using
 
 # Create target directory if it is not present

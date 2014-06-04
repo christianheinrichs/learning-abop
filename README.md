@@ -1,7 +1,7 @@
 learning-abop
 =============
 
-Byte of Python learning diary/log with solutions
+A Byte of Python learning diary/log with solutions
 
 05/20/2014 - Began reading the book, ended the day with chapter 7.4.5  
 05/27/2014 & 05/28/2014 - Read until chapter 10  
@@ -39,15 +39,15 @@ Chapter 12.7. References: [ds_reference.py](https://github.com/christianheinrich
 Chapter 12.8. More About Strings: [ds_str_methods.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-12/ds_str_methods.py)  
 Chapter 13.2. The Solution: [backup_ver1.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver1.py)  
 Chapter 13.3. Second Version: [backup_ver2.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver2.py)  
-Chapter 13.4. Third Version [backup_ver3.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver3.py)  
-Chapter 13.5. Fourth Version [backup_ver4.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver4.py)  
-Chapter 13.6. More Refinements [backup_ver5.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver5.py)  
-Chapter 14.2. Classes [oop_simplestclass.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_simplestclass.py)  
-Chapter 14.3. Methods [oop_method.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_method.py)  
-Chapter 14.4. The `init` method [oop_init.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_init.py)  
-Chapter 14.5. Class And Object Variables [oop_objvar.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_objvar.py)  
-Chapter 14.6. Inheritance [oop_subclass.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_subclass.py)  
-Chapter 15.1. Input from user [io_input.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_input.py)  
-Chapter 15.1.1. Homework exercise [io_input_improved.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_input_improved.py)  
-Chapter 15.2. Files [io_using_file.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_using_file.py)  
-Chapter 15.3. Pickle [io_pickle.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_pickle.py)
+Chapter 13.4. Third Version: [backup_ver3.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver3.py)  
+Chapter 13.5. Fourth Version: [backup_ver4.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver4.py)  
+Chapter 13.6. More Refinements: [backup_ver5.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-13/backup_ver5.py)  
+Chapter 14.2. Classes: [oop_simplestclass.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_simplestclass.py)  
+Chapter 14.3. Methods: [oop_method.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_method.py)  
+Chapter 14.4. The `init` method: [oop_init.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_init.py)  
+Chapter 14.5. Class And Object Variables: [oop_objvar.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_objvar.py)  
+Chapter 14.6. Inheritance: [oop_subclass.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-14/oop_subclass.py)  
+Chapter 15.1. Input from user: [io_input.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_input.py)  
+Chapter 15.1.1. Homework exercise: [io_input_improved.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_input_improved.py)  
+Chapter 15.2. Files: [io_using_file.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_using_file.py)  
+Chapter 15.3. Pickle: [io_pickle.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_pickle.py)
