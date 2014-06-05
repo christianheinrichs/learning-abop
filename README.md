@@ -7,6 +7,7 @@ A Byte of Python learning diary/log with solutions
 05/27/2014 & 05/28/2014 - Read until chapter 10  
 05/29/2014 - Read until chapter 13
 06/03/2014 & 06/04/2014 - Read until chapter 16
+06/05/2014 - Read until chapter 20 and therefore, finished reading the book
 
 Script chapter index:
 
@@ -50,4 +51,12 @@ Chapter 14.6. Inheritance: [oop_subclass.py](https://github.com/christianheinric
 Chapter 15.1. Input from user: [io_input.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_input.py)  
 Chapter 15.1.1. Homework exercise: [io_input_improved.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_input_improved.py)  
 Chapter 15.2. Files: [io_using_file.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_using_file.py)  
-Chapter 15.3. Pickle: [io_pickle.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_pickle.py)
+Chapter 15.3. Pickle: [io_pickle.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-15/io_pickle.py)  
+Chapter 16.3. Handling Exceptions: [exceptions_handle.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-16/exceptions_handle.py)  
+Chapter 16.4. Raising Exceptions: [exceptions_raise.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-16/exceptions_raise.py)  
+Chapter 16.5. Try ... Finally: [exceptions_finally.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-16/exceptions_finally.py)  
+Chapter 16.6. The with statement: [exceptions_using_with.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-16/exceptions_using_with.py)  
+Chapter 16.10 logging module: [stdlib_logging.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-16/stdlib_logging.py)  
+Chapter 17.4. Lambda Forms: [more_lambda.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_lambda.py)  
+Chapter 17.5. List Comprehension: [more_list_comprehension.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_list_comprehension.py)  
+Chapter 17.8. Decorators: [more_decorator.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_decorator.py)
