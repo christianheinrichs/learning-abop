@@ -5,8 +5,8 @@ A Byte of Python learning diary/log with solutions
 
 05/20/2014 - Began reading the book, ended the day with chapter 7.4.5  
 05/27/2014 & 05/28/2014 - Read until chapter 10  
-05/29/2014 - Read until chapter 13
-06/03/2014 & 06/04/2014 - Read until chapter 16
+05/29/2014 - Read until chapter 13  
+06/03/2014 & 06/04/2014 - Read until chapter 16  
 06/05/2014 - Read until chapter 20 and therefore, finished reading the book
 
 Script chapter index:
