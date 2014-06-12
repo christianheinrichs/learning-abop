@@ -59,4 +59,5 @@ Chapter 16.6. The with statement: [exceptions_using_with.py](https://github.com/
 Chapter 16.10 logging module: [stdlib_logging.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-16/stdlib_logging.py)  
 Chapter 17.4. Lambda Forms: [more_lambda.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_lambda.py)  
 Chapter 17.5. List Comprehension: [more_list_comprehension.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_list_comprehension.py)  
-Chapter 17.8. Decorators: [more_decorator.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_decorator.py)
+Chapter 17.8. Decorators: [more_decorator.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_decorator.py)  
+Chapter 17.10. Summary: [more_address-book.py](https://github.com/christianheinrichs/learning-abop/blob/master/chapter-17/more_address-book.py)
