@@ -203,7 +203,7 @@ class AddressBook():
         else:
             print "Contact list is empty!"
 
-    def showsingle(self, fromsearch):
+    def showsingle(self):
         # Show single contact
         toshow = raw_input("Which contact entry do you want to view? ")
         # If the key exists
