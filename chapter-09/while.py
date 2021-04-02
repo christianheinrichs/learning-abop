@@ -6,7 +6,7 @@ while running:
 
     if guess == number:
         print 'Congratulations, you guessed it.'
-        # This causes the while loop to sop
+        # This causes the while loop to stop
         running = False
     elif guess < number:
         print 'No, it is a little higher than that.'
