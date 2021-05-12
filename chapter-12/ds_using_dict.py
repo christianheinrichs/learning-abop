@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 # 'ab' is short for 'a'ddress'b'ook
 
 ab = {  'Swaroop'   : 'swaroop@swaroopch.com',

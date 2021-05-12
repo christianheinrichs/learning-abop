@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 # This is a string object
 name = 'Swaroop'
 

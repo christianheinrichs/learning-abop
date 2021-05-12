@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 age = 20
 name = 'Swaroop'
 

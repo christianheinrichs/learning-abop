@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def print_max(a, b):
     if a > b:
         print a, 'is maximum'

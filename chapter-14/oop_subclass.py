@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 class SchoolMember:
     '''Represents any school member.'''
     def __init__(self, name, age):

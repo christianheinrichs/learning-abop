@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 poem = ''' \
 Programming is fun
 When the work is done

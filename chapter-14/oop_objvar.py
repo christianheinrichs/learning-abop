@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 class Robot:
     """Represents a robot, with a name."""
 

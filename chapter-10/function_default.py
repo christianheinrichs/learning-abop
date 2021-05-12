@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def say(message, times=1):
     print message * times
 

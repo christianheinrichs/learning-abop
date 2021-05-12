@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def maximum(x, y):
     if x > y:
         return x

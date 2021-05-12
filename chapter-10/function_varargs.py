@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def total(initial=5, *numbers, **keywords):
     count = initial
     

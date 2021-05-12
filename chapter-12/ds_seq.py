@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 shoplist = ['apple', 'mango', 'carrot', 'banana']
 name = 'swaroop'
 

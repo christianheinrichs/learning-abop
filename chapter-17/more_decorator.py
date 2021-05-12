@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 from time import sleep
 from functools import wraps
 import logging

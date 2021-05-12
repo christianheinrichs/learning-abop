@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 import pickle
 
 # The name of the file where we will store the object

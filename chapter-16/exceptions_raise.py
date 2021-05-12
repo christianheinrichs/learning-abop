@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 class ShortInputException(Exception):
     '''A user-defined exception class.'''
     def __init__(self, length, atleast):

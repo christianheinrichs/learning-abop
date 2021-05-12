@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 # This is my shopping list
 shoplist = ['apple', 'mango', 'carrot', 'banana']
 

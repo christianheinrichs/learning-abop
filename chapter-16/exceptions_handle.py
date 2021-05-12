@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 try:
     text = raw_input('Enter something --> ')
 except EOFError:

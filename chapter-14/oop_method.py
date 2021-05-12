@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 class Person:
     def say_hi(self):
         print('Hello, how are you?')

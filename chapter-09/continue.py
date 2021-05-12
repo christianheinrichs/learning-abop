@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 while True:
     s = raw_input('Enter something : ')
 

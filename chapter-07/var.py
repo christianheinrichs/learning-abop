@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 i = 5
 print i
 i = i + 1

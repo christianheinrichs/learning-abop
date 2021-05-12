@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+# -*- coding: utf-8 -*-
 
 #############################################################################
 #                                                                           #
@@ -20,11 +21,11 @@
 #                                                                           #
 #############################################################################
 
-# more_address-book.py written by Christian Heinrichs - 02/04/2021
+# more_address-book.py written by Christian Heinrichs - 12/05/2021
 
 # This is my version of the address book task from ‘A Byte of Python’
-# The following scripts helped me a lot with different problematic parts of
-# the address book program:
+# The following scripts helped me a lot with different problematic parts of the
+# address book program:
 # http://codetique.jimsaunders.net/raw/jLRgWZyA
 # https://github.com/akshar-raaj/Python-Programs/blob/master/address-book.py
 # http://www.bobgolobish.com/creating-an-address-book-program-in-python-part-4/
@@ -45,7 +46,7 @@ class AddressBook():
         If not, create an empty dictionary.
         This routine is very important as I had tons of problems with
         getting the pickle object to save persistently.
-        Also note the double underscores "self.__a".
+        Also note the double underscores of ‘self.__a’.
         That way we can make the ‘a’ variable accessible to all methods within
         this class without making it global.
         """
@@ -223,12 +224,12 @@ class AddressBook():
 class Person():
     # Initialise the needed information with help of arguments and raw_input()
     def __init__(self):
-        self.first_name = raw_input("Enter the contact's first name: ")
-        self.last_name = raw_input("Enter the contact's last name: ")
+        self.first_name = raw_input("Enter the contact’s first name: ")
+        self.last_name = raw_input("Enter the contact’s last name: ")
         self.full_name = self.first_name + " " + self.last_name
-        self.age = raw_input("Enter the contact's age: ")
+        self.age = raw_input("Enter the contact’s age: ")
         self.country = raw_input("From what country is the contact from? ")
-        self.email = raw_input("Please enter the contact's email address: ")
+        self.email = raw_input("Please enter the contact’s email address: ")
         self.contacttype = "Generic contact"
 
 # The next three classes inherit everything from the ‘Person’ object
@@ -249,13 +250,13 @@ class Friend(Person):
         self.contacttype = "Friend"
 
 print '''
- ________________________________________________________________
-|                                                                |
-|  more_address-book.py  Copyright (C) 2014  Christian Heinrichs |
-|  This program comes with ABSOLUTELY NO WARRANTY.               |
-|  This is free software, and you are welcome to redistribute it |
-|  under certain conditions.                                     |
-|________________________________________________________________|   
+ _________________________________________________________________
+|                                                                 |
+|  more_address-book.py  Copyright (C) 2014  Christian Heinrichs  |
+|  This program comes with ABSOLUTELY NO WARRANTY.                |
+|  This is free software, and you are welcome to redistribute it  |
+|  under certain conditions.                                      |
+|_________________________________________________________________|
 
 
 Add a contact - add

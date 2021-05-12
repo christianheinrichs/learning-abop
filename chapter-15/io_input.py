@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def reverse(text):
     return text[::-1]
 

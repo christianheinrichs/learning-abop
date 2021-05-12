@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 print 'Simple Assignment'
 shoplist = ['apple', 'mango', 'carrot', 'banana']
 # mylist is just another name pointing to the same object!

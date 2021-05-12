@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def print_max(x, y):
     '''Prints the maximum of two numbers.
 

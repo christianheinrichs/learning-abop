@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 x = 50
 
 def func(x):
