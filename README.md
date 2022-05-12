@@ -1,19 +1,19 @@
 learning-abop
 =============
 
-A Byte of Python learning diary/log with solutions
+‘A Byte of Python’ learning diary with solutions
 
-20/05/2014 - Began reading the book, ended the day with chapter 7.4.5  
-27/05/2014 & 28/05/2014 - Read until chapter 10  
-29/05/2014 - Read until chapter 13  
-03/06/2014 & 04/06/2014 - Read until chapter 16  
-05/06/2014 - Read until chapter 20 and therefore, finished reading the book
+20 May 2014 - Began reading the book, ended the day with chapter 7.4.5  
+27 May 2014 & 28 May 2014 - Read until chapter 10  
+29 May 2014 - Read until chapter 13  
+3 June 2014 & 4 June 2014 - Read until chapter 16  
+5 June 2014 - Read until chapter 20 and therefore, finished reading the book
 
 Script chapter index:
 
 Chapter 6.3. Light Table: [hello.py](chapter-06/hello.py)  
 Chapter 7.4.5. The format method: [str_format.py](chapter-07/str_format.py)  
-Chapter 7.10. Example:Using Variables And Literal Constants: [var.py](chapter-07/var.py)  
+Chapter 7.10. Example: Using Variables And Literal Constants: [var.py](chapter-07/var.py)  
 Chapter 8.6. Expressions: [expression.py](chapter-08/expression.py)  
 Chapter 9.1. The `if` Statement: [if.py](chapter-09/if.py)  
 Chapter 9.2. The `while` Statement: [while.py](chapter-09/while.py)  
@@ -21,7 +21,7 @@ Chapter 9.3. The `for` loop: [for.py](chapter-09/for.py)
 Chapter 9.4. The `break` Statement: [break.py](chapter-09/break.py)  
 Chapter 9.5. The `continue` Statement: [continue.py](chapter-09/continue.py)  
 Chapter 10. Functions: [function1.py](chapter-10/function1.py)  
-Chapter 10.1. Function Parameters: [function_param.py](chapter-10/function1.py)  
+Chapter 10.1. Function Parameters: [function_param.py](chapter-10/function_param.py)  
 Chapter 10.2. Local Variables: [function_local.py](chapter-10/function_local.py)  
 Chapter 10.3. The `global` statement: [function_global.py](chapter-10/function_global.py)  
 Chapter 10.4. Default Argument Values: [function_default.py](chapter-10/function_default.py)  

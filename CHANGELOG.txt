@@ -1,0 +1,61 @@
+Version 29.5.2014-r1
+- Initial commit
+
+Version 29.5.2014-r2
+- Fix README
+- Add zeroes to directory names
+
+Version 29.5.2014-r3
+- Add script from chapter 10
+- Add links to the scripts for easier navigation
+
+Version 29.5.2014-r4
+- Add scripts from chapter 10-12
+
+Version 4.6.2014-r1
+- Update learning diary
+- Add scripts from chapter 13-15
+
+Version 4.6.2014-r2
+- Correct subheader
+- Add missing colons to README
+- Change source and target paths to default in backup_ver5.py
+
+Version 5.6.2014-r1
+- Add scripts from chapter 16 and chapter 17
+- Update README
+
+Version 5.6.2014-r2
+- Insert Markdown newlines
+
+Version 12.6.2014-r1
+- Complete Python address book exercise
+
+Version 12.6.2014-r2
+- Move address book exercise to chapter 17
+- Correct typos
+
+Version 12.6.2014-r3
+- Delete more_address-book.py from old location
+
+Version 18.6.2014
+- Remove unused parameter ‘fromsearch’
+
+Version 2.4.2021
+- Convert US date format to UK date format
+- Replace absolute links with relative links in README file
+- Minor code comment improvements
+- Update email address
+
+Version 12.5.2021
+- Declare Python 2 environment
+- Make Python files executable
+- Declare UTF-8 encoding in address book script
+- Correct apostrophes
+- Add more space to intro message
+
+Version 12.5.2022
+- Add plaintext README file
+- Add changelog
+- Update date format
+- Correct README.md
