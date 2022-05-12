@@ -54,8 +54,11 @@ Version 12.5.2021
 - Correct apostrophes
 - Add more space to intro message
 
-Version 12.5.2022
+Version 12.5.2022-r1
 - Add plaintext README file
 - Add changelog
 - Update date format
 - Correct README.md
+
+Version 12.5.2022-r2
+- Add licensing notice

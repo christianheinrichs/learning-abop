@@ -61,3 +61,7 @@ Chapter 17.4. Lambda Forms: [more_lambda.py](chapter-17/more_lambda.py)
 Chapter 17.5. List Comprehension: [more_list_comprehension.py](chapter-17/more_list_comprehension.py)  
 Chapter 17.8. Decorators: [more_decorator.py](chapter-17/more_decorator.py)  
 Chapter 17.10. Summary: [more_address-book.py](chapter-17/more_address-book.py)
+
+#### Licensing
+This project is licensed under the GNU GPL 3.0 license. To read it, please
+refer to the [LICENSE](LICENSE) document.
